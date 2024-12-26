@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.table-btn {
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.success {
+    background-color: #1b7110;
+    color: #fff;
+}
+
+.danger {
+    background-color: #d70606;
+    color: #fff;
+}
+
+.success:hover {
+    background-color: #2e9c1f;
+}
+
+.danger:hover {
+    background-color: #fc3131;
+}
